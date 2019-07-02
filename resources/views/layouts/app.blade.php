@@ -32,7 +32,7 @@
                     </div>
                     <ul class="nav navbar-nav">
                         <li class="#active">
-                            <a href="#" data-toggle="modal" data-target="#curioso" class="brand-me-1">viniciar</a>
+                            <a href="#" data-toggle="modal" data-target="#curioso" class="brand-me-1">My Love: Dedi <3</a>
                         </li>
                     </ul>
                 </div>
