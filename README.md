@@ -1,2 +1,2 @@
-# My-Lab
+# MyLab
 Meu Laboratório de Testes
