@@ -110,7 +110,7 @@ class TarefaController extends Controller
          * Consulta a Habitica API para cadastrar a entrada como Afazer
          */
         $habitica_userid = 'b0120d0b-4867-4e00-b0d2-e76b4f10a2e7';
-        $habitica_apitoken = '23258d15-d94e-4e52-8bdc-964f903a3af8';
+        $habitica_apitoken = 'asdf';
         $habitica = new \GuzzleHttp\Client();
         
         if ($te_desc == '') {
@@ -142,7 +142,7 @@ class TarefaController extends Controller
     }
     public function getTagFromHabitica ($return = false) {
         $h_userid = 'b0120d0b-4867-4e00-b0d2-e76b4f10a2e7';
-        $h_apitoken = '23258d15-d94e-4e52-8bdc-964f903a3af8';
+        $h_apitoken = 'asdf';
         $h_cliente = new \GuzzleHttp\Client();
         $h_request = new \GuzzleHttp\Psr7\Request(
             'get',
